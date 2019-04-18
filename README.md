@@ -7,6 +7,7 @@ The idea is to have a starter project that can:
  * expose API
  * perform data validation on API request
  * do authentication using JWT
+ * create a clustered starter
      
 And of course many more as it continues to grow.
     
