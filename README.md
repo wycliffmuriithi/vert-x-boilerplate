@@ -12,11 +12,13 @@ The idea is to have a starter project that can:
 And of course many more as it continues to grow.
 
 ### Vertx-core
-`<dependency>`
- `<groupId>io.vertx</groupId>`
- `<artifactId>vertx-core</artifactId>`
- `<version>3.7.0</version>`
-`</dependency>`
+`
+<dependency>
+ <groupId>io.vertx</groupId>
+ <artifactId>vertx-core</artifactId>
+ <version>3.7.0</version>
+</dependency>
+`
 
 ### Flyway-core
 
