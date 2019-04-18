@@ -12,5 +12,9 @@ The idea is to have a starter project that can:
 And of course many more as it continues to grow.
 
 ### Vertx-core
+
+### Flyway-core
+
+### rx-java-2
     
 
